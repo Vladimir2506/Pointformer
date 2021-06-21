@@ -98,6 +98,15 @@ This code is based on [MMDetection3D](https://github.com/open-mmlab/mmdetection3
 If you find our work is useful in your research, please consider citing:
 
 ```
+@InProceedings{Pan_2021_CVPR,
+    author    = {Pan, Xuran and Xia, Zhuofan and Song, Shiji and Li, Li Erran and Huang, Gao},
+    title     = {3D Object Detection With Pointformer},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {7463-7472}
+}
+
 @misc{pan20203d,
   title={3D Object Detection with Pointformer}, 
   author={Xuran Pan and Zhuofan Xia and Shiji Song and Li Erran Li and Gao Huang},
