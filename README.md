@@ -106,13 +106,4 @@ If you find our work is useful in your research, please consider citing:
     year      = {2021},
     pages     = {7463-7472}
 }
-
-@misc{pan20203d,
-  title={3D Object Detection with Pointformer}, 
-  author={Xuran Pan and Zhuofan Xia and Shiji Song and Li Erran Li and Gao Huang},
-  year={2020},
-  eprint={2012.11409},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
-}
 ```
